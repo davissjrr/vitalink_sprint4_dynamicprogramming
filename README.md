@@ -18,13 +18,13 @@ O VitaLink analisa as seguintes etapas:
 3. **Avaliação** -> orçamento
 4. **Orçamento** -> negociação ou confirmação direta
 
-1. ## Diagnóstico de Eficiência e "Menor Caminho"
+## 1. Diagnóstico de eficiência
 O "menor caminho" identificado não refere-se à distância, mas à fluidez do processo. O algoritmo selecionou o caminho que minimiza os pesos (atritos), demonstrando que o fluxo pela avaliação online é o caminho de menor resistência. Isto ocorre porque o sistema identifica matematicamente que remover barreiras físicas e logísticas no início da jornada reduz o custo total de aquisição do cliente, tornando a operação da clínica mais leve e rápida.
 
-2. ## Redução de Custos via Inteligência de Fluxo
+## 2. Redução de custos
 A análise revela que o custo total é otimizado ao incluir etapas estratégicas, como a negociação. Embora pareça um passo adicional, o sistema prova que investir tempo nessa etapa tem um custo menor (peso 5) do que o risco de um fechamento direto (peso 6), que possui maior taxa de rejeição. Assim, a eficiência do VitaLink reside em converter dados técnicos em uma verdadeira economia, escolhendo caminhos que demandam menos recursos da equipe para atingir o fechamento do serviço.
 
-## Como Executar
+## Execução do projeto
 Certifique-se de que todos os arquivos `.py` estão no mesmo diretório e execute:
 
 ```bash
