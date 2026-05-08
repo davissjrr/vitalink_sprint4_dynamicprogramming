@@ -1,18 +1,20 @@
+# tarefa1_grafo.py
+
 fluxo_crm = {
     'Lead recebido': {
-        'triagem': 1
+        'Triagem': 1
     },
     'Triagem': {
-        'avaliação online': 2,
-        'avaliação presencial': 4
+        'Avaliação online': 2,
+        'Avaliação presencial': 4
     },
     'Avaliação online': {
-        'orçamento': 1
+        'Orçamento': 1
     },
     'Avaliação presencial': {
-        'oraçamento': 1
+        'Orçamento': 1
     },
-    'Orcamento': {
+    'Orçamento': {
         'Negociação': 3,
         'Confirmação': 6
     },
